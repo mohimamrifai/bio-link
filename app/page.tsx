@@ -42,7 +42,7 @@ export default function Home() {
     <main>
       <Card className="w-11/12 md:w-8/12 lg:w-4/12 lg:mt-5 mt-5 mx-auto md:mt-20">
         <CardHeader>
-          <Avatar className="w-10/12 md:w-6/12 h-64 lg:h-56 mx-auto mb-5">
+          <Avatar className="w-[150px] h-[150px] mx-auto mb-5">
             <AvatarImage
               src="/profile.jpeg"
               alt="@shadcn"
